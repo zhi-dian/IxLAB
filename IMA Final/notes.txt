@@ -1,0 +1,16 @@
+两个半圆
+连接臂
+台子
+打孔，
+soldering 5
+
+
+Arduino：
+potentiometer
+sensor
+accelerate sensor （2）（tilt ）
+
+Serial： （5-6）
+
+Processing：
+ draw(){
